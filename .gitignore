@@ -1,0 +1,74 @@
+# JavaScript / TypeScript dependencies and generated output
+node_modules/
+.pnpm-store/
+.npm/
+dist/
+build/
+out/
+coverage/
+.next/
+.nuxt/
+.turbo/
+*.tsbuildinfo
+
+# Rust compilation output; keep Cargo.lock and Cargo.toml
+target/
+
+# Local environment and credentials; keep sanitized example configuration
+.env
+.env.*
+!.env.example
+!.env.*.example
+!.env.sample
+.secrets/
+secrets/
+credentials.json
+credentials.local.*
+*.pem
+*.key
+*.keystore
+keystore/
+keystores/
+wallets/
+.wallets/
+wallet.json
+wallet.dat
+wallet.local.*
+wallet-backup*
+seed.txt
+seed.json
+seed-phrase*
+mnemonic.txt
+mnemonic.json
+private-key*
+private_key*
+
+# Local chain state; public deployment metadata should remain versioned
+.offckb/
+.ckb/
+.ckb-cli/
+devnet-data/
+chain-data/
+
+# Logs, temporary files, and local caches
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+.cache/
+tmp/
+temp/
+
+# Personal editor and OS files; preserve shared editor configuration
+.idea/
+.vscode/*.local.json
+.vscode/*.local.code-workspace
+.vscode/workspaceStorage/
+.DS_Store
+Thumbs.db
+
+# Keep package lockfiles, project configuration, notes, reports, and screenshots.
+# Ignore rules do not protect files already tracked by Git: review every commit.
