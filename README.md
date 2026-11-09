@@ -28,10 +28,12 @@ Script development, and application ecosystem.
 - Explore fungible tokens and Spore digital objects on devnet or testnet.
 - Develop and test basic Scripts using maintained tools and Rust resources.
 - Keep an honest, evidence-based record of learning and development.
+- Explore opportunities to contribute to the CKB developer ecosystem.
 
 ## 🗺️ Learning Roadmap
 
 This ten-week plan is a personal roadmap, not an official programme syllabus.
+The plan may change as I progress through the CKBuilder Handbook.
 Plan for at least **4–5 hours each week**, recording actual time even when it falls
 short. Dates begin when study actually starts. Update statuses only after doing
 the work; completion requires supporting evidence.
@@ -128,6 +130,7 @@ The existing exercise `.gitkeep` files are preserved. Store real evidence in
 ## 📚 Learning Resources
 
 - [Nervos CKB Documentation](https://docs.nervos.org/) — official concepts and tutorials.
+- [Nervos Network](https://www.nervos.org/) — ecosystem overview.
 - [CKB Academy](https://academy.ckb.dev/) — interactive fundamentals; check tooling references against current docs.
 - [CCC SDK](https://docs.ckbccc.com/en/docs/getting-started/introduction) — current TypeScript SDK documentation.
 - [OffCKB](https://docs.nervos.org/docs/sdk-and-devtool/offckb) — local development environment.
